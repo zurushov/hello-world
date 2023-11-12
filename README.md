@@ -1,3 +1,3 @@
 # hello-world
-### Whot i do
+### What i do
 I work in a bank and try to make clients' lives happier
